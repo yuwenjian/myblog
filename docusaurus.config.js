@@ -43,7 +43,6 @@ const config = {
       items: [
         {to: '/', label: '博客', position: 'left'}, 
    
-
       ],
     },
 
